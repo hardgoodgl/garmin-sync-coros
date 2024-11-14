@@ -5,8 +5,8 @@ on:
   schedule:
     - cron: '0 0,6,19 * * ?'
 env:
-  GITHUB_NAME: hardgoodgl
-  GITHUB_EMAIL: gaolonggood@126.com
+  GITHUB_NAME: 11
+  GITHUB_EMAIL: 11111@126.com
   ## 佳明配置
   GARMIN_AUTH_DOMAIN: ${{ secrets.GARMIN_AUTH_DOMAIN }}
   GARMIN_EMAIL: ${{ secrets.GARMIN_EMAIL }}
